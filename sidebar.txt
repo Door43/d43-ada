@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ada:home|Door43 (ada)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ada|d43-ada repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ada/archive/master.zip|d43-ada.zip]]
+
+**Recent Changes**
+{{changes>ns = ada}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ada|Ethnologue data]]
+
